@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppGitHubUser</string>
+    <string name="searchbar_hint">Masukkan Username</string>
+    <string name="github_user">Github User</string>
+    <string name="github_url">url = https://github.com/username</string>
+    <string name="detail_name">Nama User</string>
+    <string name="detail_user">Username</string>
+    <string name="detail_follower">9 Follower</string>
+    <string name="detail_following">9 Following</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="dark_mode">Dark Mode </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
